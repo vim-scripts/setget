@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2667
+
+This script automatically inserts setter, getter or both for php files.
+Just type instance variable then :call PHP_setget() and choose from list if you want
+setter, getter or both.
+
+- if you have any suggestions, bugs etc. drop me an email (it&#039s in the file)
+- I'd like to add more files, not just php, later
+
